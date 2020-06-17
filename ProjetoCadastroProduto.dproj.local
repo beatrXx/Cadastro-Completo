@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/06/17 13:02:05.000.345,=C:\Users\beatr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/17 13:19:54.000.099,D:\Documentos\Sétimo Período\Delphi\Cadastro Completo\cadastroProdutos.dfm=C:\Users\beatr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/06/17 13:19:54.000.099,D:\Documentos\Sétimo Período\Delphi\Cadastro Completo\cadastroProdutos.pas=C:\Users\beatr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/17 13:20:09.000.837,D:\Documentos\Sétimo Período\Delphi\Cadastro Completo\ProjetoCadastroProduto.dproj=C:\Users\beatr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
